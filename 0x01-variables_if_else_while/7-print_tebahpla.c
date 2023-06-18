@@ -11,7 +11,7 @@ int main(void)
 	{
 		putchar(ch);
 	}
-	putcharm('\n');
+	putchar('\n');
 	return (0);
 }
 
